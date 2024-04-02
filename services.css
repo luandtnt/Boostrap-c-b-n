@@ -1,0 +1,39 @@
+/* styles.css */
+
+/* Content section */
+.content {
+    padding: 50px 0;
+  }
+  
+  .content h2 {
+    margin-bottom: 30px;
+  }
+  
+  .content p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  /* Service styles */
+  .service {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .service img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .service h4 {
+    margin-top: 10px;
+  }
+  
+  /* Footer styles */
+  .footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+  }
+  

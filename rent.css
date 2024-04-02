@@ -1,0 +1,48 @@
+/* styles.css */
+
+/* Content section */
+.content {
+    padding: 50px 0;
+  }
+  
+  .content h2 {
+    margin-bottom: 30px;
+  }
+  
+  .content p {
+    font-size: 18px;
+    margin-bottom: 30px;
+  }
+  
+  /* Car styles */
+  .car {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .car img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .car h4 {
+    margin-top: 10px;
+  }
+  
+  /* Table styles */
+  .table {
+    margin-bottom: 30px;
+  }
+  
+  .table th, .table td {
+    vertical-align: middle;
+  }
+  
+  /* Footer styles */
+  .footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 20px 0;
+  }
+  

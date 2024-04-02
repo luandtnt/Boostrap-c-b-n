@@ -1,0 +1,110 @@
+/* styles.css */
+
+/* Phần styles của Phần Hero */
+.hero {
+    background-image: url('hero-image.jpg'); /* Thay 'hero-image.jpg' bằng đường dẫn ảnh thực tế của bạn */
+    background-size: cover;
+    background-position: center;
+    color: #ffffff; /* Màu văn bản trắng */
+    padding: 100px 0;
+    text-align: center;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+  }
+  
+  /* Phần styles của Phần Dịch Vụ */
+  .services {
+    background-color: #f8f9fa; /* Màu nền xám nhạt */
+    padding: 80px 0;
+  }
+  
+  .services h2 {
+    margin-bottom: 40px;
+  }
+  
+  .services .card {
+    border: none;
+  }
+  
+  .services .card-title {
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .services .card-text {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+  }
+  
+  /* Phần styles của Phần Thuê Xe */
+  .rent {
+    padding: 80px 0;
+  }
+  
+  .rent h2 {
+    margin-bottom: 40px;
+  }
+  
+  .car-type {
+    border: 1px solid #dee2e6;
+    border-radius: 10px;
+    padding: 30px;
+    text-align: center;
+    margin-bottom: 30px;
+  }
+  
+  .car-type h3 {
+    font-size: 2rem;
+    margin-bottom: 15px;
+  }
+  
+  .car-type p {
+    font-size: 1.1rem;
+    margin-bottom: 20px;
+  }
+  
+  /* Phần styles của Phần Về Chúng Tôi */
+  .about-us {
+    padding: 80px 0;
+  }
+  
+  .about-us h2 {
+    margin-bottom: 40px;
+  }
+  
+  /* Phần styles của Phần Liên Hệ */
+  .contact {
+    padding: 80px 0;
+  }
+  
+  .contact h2 {
+    margin-bottom: 40px;
+  }
+  
+  .contact form {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .contact .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .contact textarea {
+    resize: none;
+  }
+  
+  /* Phần styles của Chân trang */
+  .footer {
+    background-color: #343a40; /* Màu nền đen */
+    color: #ffffff; /* Màu văn bản trắng */
+    padding: 20px 0;
+  }
